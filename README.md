@@ -1,4 +1,4 @@
-# VWFS Pair Programming
+# Pair Programming
 
 Basic repository that should act as a BFF.
 
