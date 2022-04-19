@@ -1,6 +1,6 @@
 import express, { Express, Request, Response } from 'express'
 import dotenv from 'dotenv'
-import { fetchImage } from './src/image.service'
+import { fetchImage } from './src/imageService'
 
 dotenv.config()
 
